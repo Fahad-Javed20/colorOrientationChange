@@ -14,11 +14,11 @@ export type flagsOrientation = {
 function App() {
   
   const flag1:flagsOrientation = {
-    name:"japan",
+    name:"Germany",
     color1:"bg-black",
     color2:"bg-red-700",
-    color3:"bg-yellow-300",
-    horizontal:true,
+    color3:"bg-yellow-400",
+    horizontal:false,
   }
 
   return (
